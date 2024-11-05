@@ -30,7 +30,7 @@
         <TextBox Text="TextBox" Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="2"/>
         <Button Grid.Row="2" Grid.Column="1"/>
         <Border Background="Red" CornerRadius="20" Width="100" Height="50" RenderTransformOrigin="50,50" Grid.Row="2" Grid.Column="2">
-            <TextBlock  Text="Trabant"/>
+            <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" Text="Trabant"/>
         </Border>
         <StackPanel Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2">
             <TextBlock Text="fehér"/>
